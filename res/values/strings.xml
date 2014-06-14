@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="appName">breakout</string>
+<string name="iconName">breakout</string>
+
+<string name="private_version">1402775123.4</string>
+
+
+</resources>

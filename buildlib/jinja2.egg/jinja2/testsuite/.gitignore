@@ -1,0 +1,15 @@
+/__init__.pyc
+/api.pyc
+/core_tags.pyc
+/debug.pyc
+/doctests.pyc
+/ext.pyc
+/filters.pyc
+/imports.pyc
+/inheritance.pyc
+/lexnparse.pyc
+/loader.pyc
+/regression.pyc
+/security.pyc
+/tests.pyc
+/utils.pyc

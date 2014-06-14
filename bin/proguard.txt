@@ -1,0 +1,6 @@
+# view AndroidManifest.xml #generated:15
+-keep class com.google.android.gms.ads.AdActivity { <init>(...); }
+
+# view AndroidManifest.xml #generated:23
+-keep class org.renpy.android.PythonActivity { <init>(...); }
+

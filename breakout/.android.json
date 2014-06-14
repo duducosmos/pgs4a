@@ -1,0 +1,1 @@
+{"layout": "internal", "orientation": "landscape", "package": "com.jds.breakout", "include_pil": true, "name": "breakout", "icon_name": "breakout", "version": "0.1", "permissions": ["INTERNET", "VIBRATE"], "include_sqlite": true, "numeric_version": "1"}
